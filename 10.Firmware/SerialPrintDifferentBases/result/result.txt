@@ -1,0 +1,4 @@
+Value = 10 (DEC)
+Value = 1010 (BIN)
+Value = 12 (OCT)
+Value = A (HEX)
